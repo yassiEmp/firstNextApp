@@ -1,2 +1,3 @@
 # firstNextApp
 the first next app a made by reading the doc of next js 14
+i am not so proud of the app but it is the beginning i will have to improve miself to reach my goal of being .......
